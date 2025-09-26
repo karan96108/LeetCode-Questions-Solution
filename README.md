@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0202-happy-number) |
+| [0740-delete-and-earn](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0740-delete-and-earn) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0070-climbing-stairs) |
+| [0740-delete-and-earn](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0740-delete-and-earn) |
 ## Memoization
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0740-delete-and-earn](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0740-delete-and-earn) |
 <!---LeetCode Topics End-->
