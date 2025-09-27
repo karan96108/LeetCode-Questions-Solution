@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0020-valid-parentheses) |
 | [3412-permutation-difference-between-two-strings](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3412-permutation-difference-between-two-strings) |
 ## Stack
@@ -46,6 +47,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0014-longest-common-prefix) |
 | [0740-delete-and-earn](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0740-delete-and-earn) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
