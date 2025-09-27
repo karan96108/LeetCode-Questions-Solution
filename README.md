@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0319-bulb-switcher) |
+| [0507-perfect-number](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0507-perfect-number) |
 ## Brainteaser
 |  |
 | ------- |
