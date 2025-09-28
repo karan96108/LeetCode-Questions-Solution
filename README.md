@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0507-perfect-number) |
 ## Brainteaser
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0279-perfect-squares) |
 | [0740-delete-and-earn](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0740-delete-and-earn) |
 ## Memoization
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0088-merge-sorted-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
