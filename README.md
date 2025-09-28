@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0088-merge-sorted-array) |
 | [0740-delete-and-earn](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0740-delete-and-earn) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
