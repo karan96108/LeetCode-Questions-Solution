@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0202-happy-number) |
 | [0740-delete-and-earn](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0740-delete-and-earn) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3412-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0740-delete-and-earn) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Trie
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3220-count-tested-devices-after-test-operations](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
