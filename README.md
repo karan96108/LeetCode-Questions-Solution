@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0179-largest-number) |
 | [0740-delete-and-earn](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0740-delete-and-earn) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0179-largest-number) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/0179-largest-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/karan96108/LeetCode-Questions-Solution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
